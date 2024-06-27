@@ -24,7 +24,7 @@ To verify that Node.js is installed, use the following command:
 
 ```sh
 node -v
-
+````
 ### Install Package Installation
 
 To verify that Node.js is installed, use the following command:
