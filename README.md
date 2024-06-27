@@ -28,6 +28,7 @@ node -v
 ### Clone the github
 ```
 git clone https://github.com/dwisyafriadi/botsender.git
+cd botsender
 ```
 
 ### Install Package Installation
