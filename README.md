@@ -24,3 +24,14 @@ To verify that Node.js is installed, use the following command:
 
 ```sh
 node -v
+
+### Install Package Installation
+
+To verify that Node.js is installed, use the following command:
+
+```sh
+1. npm install -g npm@10.8.1
+2. npm install web3
+3. npm install ethers figlet
+
+
