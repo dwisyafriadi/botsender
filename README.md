@@ -25,6 +25,11 @@ To verify that Node.js is installed, use the following command:
 ```sh
 node -v
 ````
+### Clone the github
+```
+git clone https://github.com/dwisyafriadi/botsender.git
+```
+
 ### Install Package Installation
 
 To install package Node.js use the following command:
