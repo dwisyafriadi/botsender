@@ -42,3 +42,8 @@ To install package Node.js use the following command:
 4. Enter recipients address: (for example 0xB5e3a3A847fa4c71d5d6B3cedf804033d1e72370)
 5. Enter range of amounts to transfer : (for 0.1,0.2
 6. Enter range of intervals in seconds : (for example minimum transaction in seconds 30, maximum transaction 60)
+
+## Gambar
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
