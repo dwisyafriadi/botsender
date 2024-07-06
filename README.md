@@ -42,7 +42,7 @@ npm install ethers figlet
 ````
 ### Next, to get started, you can run the following command
 
-1. node trx3.js
+1. node start-bot.js
 2. Enter the JSON RPC Provider URL: (for example https://binance.llamarpc.com)
 3. Enter your private key
 4. Enter recipients address: (for example 0xB5e3a3A847fa4c71d5d6B3cedf804033d1e72370)
