@@ -36,9 +36,9 @@ cd botsender
 To install package Node.js use the following command:
 
 ```sh
-1. npm install -g npm@10.8.1
-2. npm install web3
-3. npm install ethers figlet
+npm install -g npm@10.8.1
+npm install web3
+npm install ethers figlet
 ````
 ### Next, to get started, you can run the following command
 
