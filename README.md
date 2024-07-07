@@ -1,3 +1,4 @@
+### Tutorial in English
 # Transaction Bot Application
 
 A simple transaction bot application that uses Node.js to send random Ethereum transactions at random intervals.
@@ -49,7 +50,7 @@ npm install ethers figlet
 5. Enter range of amounts to transfer : (for 0.1,0.2)
 6. Enter range of intervals in seconds : (for example minimum transaction in seconds 30, maximum transaction 60)
 
-
+### Tutorial in Indonesian
 ### Gak bisa bahasa inggris ? Cek video ini aja
 
 ### Cek Apakah node js sudah terisntall atau belum
